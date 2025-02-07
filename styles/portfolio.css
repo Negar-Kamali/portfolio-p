@@ -5,10 +5,11 @@ h1{
     color: blueviolet;
 }
 .hero{
-    background: #f9f7fe;
+    background: #bbbabe;
     text-align: center;
 }
 .hero h1,h2{
+    color: black;
     font-family: "Poppins", serif;
     font-weight: bold;
     line-height: 2;
