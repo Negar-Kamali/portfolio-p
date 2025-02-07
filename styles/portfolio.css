@@ -1,0 +1,24 @@
+body{
+    background: grey;
+}
+h1{
+    color: blueviolet;
+}
+.hero{
+    background: #f9f7fe;
+    text-align: center;
+}
+.hero h1,h2{
+    font-family: "Poppins", serif;
+    font-weight: bold;
+    line-height: 2;
+    font-size: 24px;
+}
+.btn-branding{
+    background: #6c63ff;
+    border-radius: 4px;
+    color: white;
+    font-size: 18px;
+    line-height: 27px;
+    padding: 15px 30px;
+}
